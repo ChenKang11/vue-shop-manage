@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # vue-shop-manage
 
 ## Project setup
@@ -22,3 +23,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# vue-shop-manage
+>>>>>>> d442b090814b1fddd0214c8108db3c211399df89
